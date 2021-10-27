@@ -4,3 +4,5 @@ from game.actor import Actor
 from game.point import Point
 
 # TODO: Define the Food class here
+class Food:
+    pass
